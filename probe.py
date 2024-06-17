@@ -24,7 +24,7 @@ domain_list=None
 threads=10
 out_list=None
 bar=False
-token='1289232303:AAHtYRO_3qPeYOVGQ2pHqCcD7wuzaEJOhOA'
+token='' #enter telegram api token
 message=[]
 chat_id=689790739
 
